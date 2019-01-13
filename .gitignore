@@ -1,0 +1,8 @@
+.idea/*
+.vscode/*
+*.dump
+*.sql
+.__pycache__/*
+.DS_Store
+node_modules
+yandex-tank/loadtest/logs/*

@@ -1,0 +1,8 @@
+{
+  "generator-bro": {
+    "apps": "server/apps",
+    "pyApps": "apps",
+    "rootUrlConfPath": "server/config/urls.py",
+    "installedAppsPath": "server/config/settings/installed_apps.py"
+  }
+}
